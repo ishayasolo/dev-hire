@@ -1,0 +1,2452 @@
+{
+  "data": {
+    "service_search_results": {
+      "total": 150,
+      "max_score": null,
+      "hits": [
+        {
+          "_index": "services",
+          "_type": "_doc",
+          "_id": "330000932-6343",
+          "_score": null,
+          "_source": {
+            "cust_id": 330000932,
+            "avatar": "https://d17meyd56oy0jr.cloudfront.net/seller-logo/330000932",
+            "url_name": "blessiknow",
+            "summary": null,
+            "profile_id": 6343,
+            "profile_status": "free",
+            "currency_id": 1,
+            "currency_name": "NGN",
+            "search_weight": 1.3285714285714285,
+            "search_premium_subscription": 0,
+            "public_status": true,
+            "vacation_mode": false,
+            "display_name": "BlessIknow",
+            "starting_from": "15000.00",
+            "category": "Technology and Programming",
+            "category_description": "Software app development, hardware, cloud computing, and technology related work",
+            "service": "Computer Software Development",
+            "service_unanalyzed": "Computer Software Development",
+            "service_description": "Design and develop Microsoft Windows, Linux, Unix, MAC OS based apps.",
+            "service_expression": "Find a developer to create the desktop app you want!",
+            "service_photo": "https://dl6lnggp44pnu.cloudfront.net/service-multimedia/330000932-photo-6343-mini",
+            "reg_type": "Individual",
+            "status_tag": null,
+            "work_completed": 1,
+            "work_successfully_completed": 1,
+            "work_unsuccessfully_completed": 0,
+            "slug": "6343-build-a-beautiful-and-responsive-website-using-wordpress",
+            "services_overview_title": "I will build a beautiful and responsive website using WordPress.",
+            "services_overview_body": "<p><br></p><p> The website skills I offer include:-</p><p><br></p><p>- WordPress theme installation</p><p>- Theme Customization</p><p>- WordPress full Website creation and customization</p><p>- Easy to manage, Supper friendly builder lets you edit the website.</p><p><br></p><p>- Modern Looking website</p><p>- E-commerce & Payment Gateway</p><p>- SEO - Optimized Pages for Search Engines</p><p>- Upload Product</p><p>- Help to choose domain/hosting</p><p><br></p><p>OTHER SERVICES</p><p><br></p><p>Woo-Commerce Customization</p><p>popup form/contact form/subscribe form with add mail-chimp</p><p>Contact page with Google Map</p><p>Give 100% responsive layout All devices supported</p><p>Social media integration</p><p>Contact, about us and legal pages.</p>",
+            "skills": [
+              "web design",
+              "E-commerce web design",
+              "WordPress",
+              "responsive web design",
+              "SEO"
+            ],
+            "location": {
+              "country": "Nigeria",
+              "city": "Lekki",
+              "area_of_city": null
+            },
+            "qualifications": [],
+            "service_packages": [
+              {
+                "description": "Buy and host your domain name."
+              },
+              {
+                "unit_price": "15000.00"
+              },
+              {
+                "local_unit_price": "15000.00"
+              },
+              {
+                "expr_delivery_charge": "15000.00"
+              },
+              {
+                "delivery_time_in_hours": 1
+              },
+              {
+                "expr_delivery_time_in_hours": 1
+              },
+              {
+                "description": "Build a responsive website for you."
+              },
+              {
+                "unit_price": "75000.00"
+              },
+              {
+                "local_unit_price": "75000.00"
+              },
+              {
+                "expr_delivery_charge": "75000.00"
+              },
+              {
+                "delivery_time_in_hours": 1
+              },
+              {
+                "expr_delivery_time_in_hours": 1
+              },
+              {
+                "description": "Build an E-commerce website for you."
+              },
+              {
+                "unit_price": "120000.00"
+              },
+              {
+                "local_unit_price": "120000.00"
+              },
+              {
+                "expr_delivery_charge": "120000.00"
+              },
+              {
+                "delivery_time_in_hours": 1
+              },
+              {
+                "expr_delivery_time_in_hours": 1
+              }
+            ],
+            "not_interested_in": null,
+            "cancel_work": false,
+            "quote_validity_period": 30,
+            "available_delivery_mode": [
+              "Online"
+            ],
+            "delivery_locations": [],
+            "payment_terms_accepted": null,
+            "joined_since": 1561294758,
+            "review_score": "5.00",
+            "level_score": "5.00",
+            "level_tag": "L1",
+            "no_of_reviews": 1,
+            "notice_period_in_hours": 24,
+            "languages": [
+              "English "
+            ],
+            "community": ""
+          },
+          "sort": [
+            1.3285714
+          ]
+        },
+        {
+          "_index": "services",
+          "_type": "_doc",
+          "_id": "330006999-7451",
+          "_score": null,
+          "_source": {
+            "cust_id": 330006999,
+            "avatar": "https://d17meyd56oy0jr.cloudfront.net/seller-logo/330006999",
+            "url_name": "archraphael",
+            "summary": null,
+            "profile_id": 7451,
+            "profile_status": "free",
+            "currency_id": 1,
+            "currency_name": "NGN",
+            "search_weight": 1.3142857142857143,
+            "search_premium_subscription": 0,
+            "public_status": true,
+            "vacation_mode": false,
+            "display_name": "ArchRaphael",
+            "starting_from": "8000.00",
+            "category": "Technology and Programming",
+            "category_description": "Software app development, hardware, cloud computing, and technology related work",
+            "service": "Computer Software Development",
+            "service_unanalyzed": "Computer Software Development",
+            "service_description": "Design and develop Microsoft Windows, Linux, Unix, MAC OS based apps.",
+            "service_expression": "Find a developer to create the desktop app you want!",
+            "service_photo": "https://dl6lnggp44pnu.cloudfront.net/service-multimedia/330006999-photo-7451-mini",
+            "reg_type": "Individual",
+            "status_tag": null,
+            "work_completed": 8,
+            "work_successfully_completed": 8,
+            "work_unsuccessfully_completed": 0,
+            "slug": "7451-develop-your-forex-robots-and-indicators-dashboards-etc",
+            "services_overview_title": "Develop your Forex Robots and Indicators, Dashboards, etc.",
+            "services_overview_body": "<p>I am highly experienced in converting trading strategies to trading software (such as indicator, trading robot, dashboard, etc.) used in the financial market such as forex. I have used this skills to work for staffs/clients of forex brokerage companies such as RallyTrade, CJC Global, etc. I have optimized many less profitable trading strategies and made them become high profitable strategies</p>",
+            "skills": [
+              "MQL4",
+              "MQL5",
+              "C#-cTrader"
+            ],
+            "location": {
+              "country": "None Selected",
+              "city": "Lagos",
+              "area_of_city": null
+            },
+            "qualifications": [],
+            "service_packages": [
+              {
+                "description": "<p>Conversion of trading strategies to Expert advisors</p>"
+              },
+              {
+                "unit_price": "10000.00"
+              },
+              {
+                "local_unit_price": "10000.00"
+              },
+              {
+                "expr_delivery_charge": "10000.00"
+              },
+              {
+                "delivery_time_in_hours": 1
+              },
+              {
+                "expr_delivery_time_in_hours": 1
+              },
+              {
+                "description": "<p>Building trading Indicators such as arrow indicator</p>"
+              },
+              {
+                "unit_price": "8000.00"
+              },
+              {
+                "local_unit_price": "8000.00"
+              },
+              {
+                "expr_delivery_charge": "8000.00"
+              },
+              {
+                "delivery_time_in_hours": 1
+              },
+              {
+                "expr_delivery_time_in_hours": 1
+              },
+              {
+                "description": "<p>Building financial trading dashboard</p>"
+              },
+              {
+                "unit_price": "9000.00"
+              },
+              {
+                "local_unit_price": "9000.00"
+              },
+              {
+                "expr_delivery_charge": "9000.00"
+              },
+              {
+                "delivery_time_in_hours": 1
+              },
+              {
+                "expr_delivery_time_in_hours": 1
+              }
+            ],
+            "not_interested_in": null,
+            "cancel_work": false,
+            "quote_validity_period": 30,
+            "available_delivery_mode": [
+              "Online"
+            ],
+            "delivery_locations": [],
+            "payment_terms_accepted": null,
+            "joined_since": 1650892815,
+            "review_score": "4.98",
+            "level_score": "37.36",
+            "level_tag": "L1",
+            "no_of_reviews": 7,
+            "notice_period_in_hours": 48,
+            "languages": [
+              "English "
+            ],
+            "community": ""
+          },
+          "sort": [
+            1.3142858
+          ]
+        },
+        {
+          "_index": "services",
+          "_type": "_doc",
+          "_id": "330000626-1118",
+          "_score": null,
+          "_source": {
+            "cust_id": 330000626,
+            "avatar": "https://d17meyd56oy0jr.cloudfront.net/seller-logo/330000626",
+            "url_name": "alofkeyssolutions",
+            "summary": null,
+            "profile_id": 1118,
+            "profile_status": "free",
+            "currency_id": 1,
+            "currency_name": "NGN",
+            "search_weight": 1.3,
+            "search_premium_subscription": 0,
+            "public_status": true,
+            "vacation_mode": false,
+            "display_name": "Alofkeys Solutions",
+            "starting_from": "100000.00",
+            "category": "Technology and Programming",
+            "category_description": "Software app development, hardware, cloud computing, and technology related work",
+            "service": "Computer Software Development",
+            "service_unanalyzed": "Computer Software Development",
+            "service_description": "Design and develop Microsoft Windows, Linux, Unix, MAC OS based apps.",
+            "service_expression": "Find a developer to create the desktop app you want!",
+            "service_photo": "https://dl6lnggp44pnu.cloudfront.net/service-multimedia/330000626-photo-1118-mini",
+            "reg_type": "Corporate",
+            "status_tag": null,
+            "work_completed": 7,
+            "work_successfully_completed": 7,
+            "work_unsuccessfully_completed": 1,
+            "slug": "1118-get-your-web-application-designed-an-expert",
+            "services_overview_title": "Get your web application designed by an expert",
+            "services_overview_body": "<p>Do you need a web application? Prefer a cross-platform responsive web app? Require a secure back-end? If you want it, we can build it. At ALOFKEYS SOLUTIONS, <span style=\"color: rgb(14, 14, 15);\">We offer website development and web application development services suitable your need. We can also redesign and develop your existing Website or Web Application. </span></p><p><span style=\"color: rgb(14, 14, 15);\">We have experience working with different programming languages and everything depends on your request. We specialise in bringing your ideas into a highly intuitive and responsive application which will in turn take your brand to the next level. We will work with you till we are assured of your satisfaction. </span></p><p><span style=\"color: rgb(14, 14, 15);\">However, Mobile and web application varies in complexity, scope and functionality. Feel free to discuss your needs with us. </span></p>",
+            "skills": [
+              "Website development",
+              "Web design",
+              "Web application",
+              "Programmer",
+              "Software development"
+            ],
+            "location": {
+              "country": "Nigeria",
+              "city": "Lagos",
+              "area_of_city": "Shomolu Somolu"
+            },
+            "qualifications": [],
+            "service_packages": [
+              {
+                "description": "<p><strong>Package 1</strong> </p><ul><li>Web Application </li><li>Highly-responsive </li><li>Revisions </li><li>Professionally designed</li></ul>"
+              },
+              {
+                "unit_price": "100000.00"
+              },
+              {
+                "local_unit_price": "100000.00"
+              },
+              {
+                "expr_delivery_charge": "120000.00"
+              },
+              {
+                "delivery_time_in_hours": 480
+              },
+              {
+                "expr_delivery_time_in_hours": 408
+              },
+              {
+                "description": "<p><strong>Package 2</strong> </p><ul><li>Web application </li><li>Highly responsive </li><li>Added features </li><li>Revisions </li><li>Professionally designed</li></ul>"
+              },
+              {
+                "unit_price": "200000.00"
+              },
+              {
+                "local_unit_price": "200000.00"
+              },
+              {
+                "expr_delivery_charge": "250000.00"
+              },
+              {
+                "delivery_time_in_hours": 720
+              },
+              {
+                "expr_delivery_time_in_hours": 600
+              }
+            ],
+            "not_interested_in": null,
+            "cancel_work": false,
+            "quote_validity_period": 30,
+            "available_delivery_mode": [
+              "Online",
+              "Pick-up"
+            ],
+            "delivery_locations": [],
+            "payment_terms_accepted": null,
+            "joined_since": 1544566385,
+            "review_score": "5.00",
+            "level_score": "30.00",
+            "level_tag": "L1",
+            "no_of_reviews": 9,
+            "notice_period_in_hours": 24,
+            "languages": [
+              "English "
+            ],
+            "community": ""
+          },
+          "sort": [
+            1.3
+          ]
+        },
+        {
+          "_index": "services",
+          "_type": "_doc",
+          "_id": "330006379-6814",
+          "_score": null,
+          "_source": {
+            "cust_id": 330006379,
+            "avatar": "https://d17meyd56oy0jr.cloudfront.net/default.png",
+            "url_name": "toluoba",
+            "summary": null,
+            "profile_id": 6814,
+            "profile_status": "free",
+            "currency_id": 1,
+            "currency_name": "NGN",
+            "search_weight": 1.2857142857142858,
+            "search_premium_subscription": 0,
+            "public_status": true,
+            "vacation_mode": false,
+            "display_name": "ToluOba",
+            "starting_from": "5000.00",
+            "category": "Technology and Programming",
+            "category_description": "Software app development, hardware, cloud computing, and technology related work",
+            "service": "Computer Software Development",
+            "service_unanalyzed": "Computer Software Development",
+            "service_description": "Design and develop Microsoft Windows, Linux, Unix, MAC OS based apps.",
+            "service_expression": "Find a developer to create the desktop app you want!",
+            "service_photo": "https://dl6lnggp44pnu.cloudfront.net/service-multimedia/330006379-photo-6814-mini",
+            "reg_type": "Individual",
+            "status_tag": null,
+            "work_completed": 1,
+            "work_successfully_completed": 1,
+            "work_unsuccessfully_completed": 0,
+            "slug": "6814-infrastructure-setup-and-support",
+            "services_overview_title": "Infrastructure setup and support",
+            "services_overview_body": "<p>Setup of new offices, user access control, user account creation, support and implementation, </p><p>and more</p><p><br></p><p><br></p><p><br></p>",
+            "skills": [
+              "Scripting"
+            ],
+            "location": {
+              "country": "None Selected",
+              "city": "Lagos",
+              "area_of_city": null
+            },
+            "qualifications": [],
+            "service_packages": [
+              {
+                "description": "Support and implementation, New Office Setup"
+              },
+              {
+                "unit_price": "5000.00"
+              },
+              {
+                "local_unit_price": "5000.00"
+              },
+              {
+                "expr_delivery_charge": "5000.00"
+              },
+              {
+                "delivery_time_in_hours": 1
+              },
+              {
+                "expr_delivery_time_in_hours": 1
+              },
+              {
+                "description": "Azure administrator, Server Administrator and more"
+              },
+              {
+                "unit_price": "5000.00"
+              },
+              {
+                "local_unit_price": "5000.00"
+              },
+              {
+                "expr_delivery_charge": "5000.00"
+              },
+              {
+                "delivery_time_in_hours": 1
+              },
+              {
+                "expr_delivery_time_in_hours": 1
+              }
+            ],
+            "not_interested_in": null,
+            "cancel_work": false,
+            "quote_validity_period": 30,
+            "available_delivery_mode": [
+              "Online",
+              "Courier",
+              "Pick-up"
+            ],
+            "delivery_locations": [
+              "VI or Abule Egba"
+            ],
+            "payment_terms_accepted": null,
+            "joined_since": 1640195212,
+            "review_score": "5.00",
+            "level_score": "2.50",
+            "level_tag": "L1",
+            "no_of_reviews": 1,
+            "notice_period_in_hours": 48,
+            "languages": [
+              "English "
+            ],
+            "community": ""
+          },
+          "sort": [
+            1.2857143
+          ]
+        },
+        {
+          "_index": "services",
+          "_type": "_doc",
+          "_id": "330001020-1838",
+          "_score": null,
+          "_source": {
+            "cust_id": 330001020,
+            "avatar": "https://d17meyd56oy0jr.cloudfront.net/seller-logo/330001020",
+            "url_name": "edwinpresh",
+            "summary": null,
+            "profile_id": 1838,
+            "profile_status": "free",
+            "currency_id": 1,
+            "currency_name": "NGN",
+            "search_weight": 1.2857142857142858,
+            "search_premium_subscription": 0,
+            "public_status": true,
+            "vacation_mode": false,
+            "display_name": "Edwinpresh",
+            "starting_from": "50000.00",
+            "category": "Technology and Programming",
+            "category_description": "Software app development, hardware, cloud computing, and technology related work",
+            "service": "Computer Software Development",
+            "service_unanalyzed": "Computer Software Development",
+            "service_description": "Design and develop Microsoft Windows, Linux, Unix, MAC OS based apps.",
+            "service_expression": "Find a developer to create the desktop app you want!",
+            "service_photo": "https://dl6lnggp44pnu.cloudfront.net/service-multimedia/330001020-photo-1838-mini",
+            "reg_type": "Individual",
+            "status_tag": null,
+            "work_completed": 1,
+            "work_successfully_completed": 1,
+            "work_unsuccessfully_completed": 0,
+            "slug": "1838-get-a-responsive-and-dynamic-website-your-brand",
+            "services_overview_title": "Get a responsive and dynamic website for your brand.",
+            "services_overview_body": "<p>Looking for a good website for your brand/business? You are at the right place.</p><p>I'm a Frontend developer, I can develop responsive and dynamic websites for brands ranging from product landing pages to websites to showcase your products and services.</p><p><strong>Website will be :</strong></p><ul><li>Mobile friendly i.e it will display well on mobile phones.</li><li>Responsive i.e it will display well on different screen sizes.</li><li>Cross-browser compatible i.e it will work well on various browsers.</li><li>.Dynamic i.e it will include some clicks response and animations when needed.</li></ul><p><strong>Kindly contact me for more details</strong></p>",
+            "skills": [
+              "html",
+              "css",
+              "javascript",
+              "React",
+              "Redux",
+              "Next.js",
+              "typescript",
+              "tailwindcss",
+              "styled-component"
+            ],
+            "location": {
+              "country": "Nigeria",
+              "city": "Port-Harcourt ",
+              "area_of_city": "Choba"
+            },
+            "qualifications": [],
+            "service_packages": [
+              {
+                "description": "<p>Package 1: I will develop upto 3 pages website 100% Responsive in HTML CSS with all the latest web standards.</p>"
+              },
+              {
+                "unit_price": "50000.00"
+              },
+              {
+                "local_unit_price": "50000.00"
+              },
+              {
+                "expr_delivery_charge": "50000.00"
+              },
+              {
+                "delivery_time_in_hours": 3
+              },
+              {
+                "expr_delivery_time_in_hours": 3
+              },
+              {
+                "description": "<p>I will develop upto 6 pages website 100% Responsive in HTML CSS with all the latest web standards.</p>"
+              },
+              {
+                "unit_price": "80000.00"
+              },
+              {
+                "local_unit_price": "80000.00"
+              },
+              {
+                "expr_delivery_charge": "80000.00"
+              },
+              {
+                "delivery_time_in_hours": 1
+              },
+              {
+                "expr_delivery_time_in_hours": 1
+              }
+            ],
+            "not_interested_in": null,
+            "cancel_work": false,
+            "quote_validity_period": 30,
+            "available_delivery_mode": [
+              "Online"
+            ],
+            "delivery_locations": [],
+            "payment_terms_accepted": null,
+            "joined_since": 1561789813,
+            "review_score": "5.00",
+            "level_score": "5.00",
+            "level_tag": "L1",
+            "no_of_reviews": 1,
+            "notice_period_in_hours": 48,
+            "languages": [
+              "English "
+            ],
+            "community": ""
+          },
+          "sort": [
+            1.2857143
+          ]
+        },
+        {
+          "_index": "services",
+          "_type": "_doc",
+          "_id": "330001771-2203",
+          "_score": null,
+          "_source": {
+            "cust_id": 330001771,
+            "avatar": "https://d17meyd56oy0jr.cloudfront.net/seller-logo/330001771",
+            "url_name": "joseph",
+            "summary": null,
+            "profile_id": 2203,
+            "profile_status": "free",
+            "currency_id": 1,
+            "currency_name": "NGN",
+            "search_weight": 1.2857142857142858,
+            "search_premium_subscription": 0,
+            "public_status": true,
+            "vacation_mode": false,
+            "display_name": "Joseph",
+            "starting_from": "85000.00",
+            "category": "Technology and Programming",
+            "category_description": "Software app development, hardware, cloud computing, and technology related work",
+            "service": "Computer Software Development",
+            "service_unanalyzed": "Computer Software Development",
+            "service_description": "Design and develop Microsoft Windows, Linux, Unix, MAC OS based apps.",
+            "service_expression": "Find a developer to create the desktop app you want!",
+            "service_photo": "https://dl6lnggp44pnu.cloudfront.net/service-multimedia/330001771-photo-2203-mini",
+            "reg_type": "Individual",
+            "status_tag": null,
+            "work_completed": 4,
+            "work_successfully_completed": 4,
+            "work_unsuccessfully_completed": 0,
+            "slug": "2203-do-a-desktop-application-a-web-app-aspnet-mvc-you",
+            "services_overview_title": "I will do a Desktop application, a Web app with asp.net MVC for you",
+            "services_overview_body": "<p>I can create secured web applications and pc apps also I am an experienced WordPress developer.</p><p><strong>why choose me:</strong></p><ul><li>Build applications from scratch </li><li>Design efficient architecture</li><li>create single page applications using vuejs</li><li>find and fix bugs in your application</li><li>fix the performance issues in your applicaion</li><li>add new features for your application</li><li>Deploy your application on the server.</li></ul><p><strong>Kindly contact me for more information</strong></p>",
+            "skills": [
+              "c#",
+              "wordpress"
+            ],
+            "location": {
+              "country": "Nigeria",
+              "city": "Benin city ",
+              "area_of_city": null
+            },
+            "qualifications": [],
+            "service_packages": [
+              {
+                "description": "<p>Pakage 1:</p><ul><li>WordPress application </li><li>1 page</li><li>Responsive Design</li><li>Include Source Cod</li></ul>"
+              },
+              {
+                "unit_price": "85000.00"
+              },
+              {
+                "local_unit_price": "85000.00"
+              },
+              {
+                "expr_delivery_charge": "85000.00"
+              },
+              {
+                "delivery_time_in_hours": 240
+              },
+              {
+                "expr_delivery_time_in_hours": 240
+              },
+              {
+                "description": "<p>Package 2:</p><ul><li>I can build web apps With c# within </li><li>15days duration </li></ul>"
+              },
+              {
+                "unit_price": "150000.00"
+              },
+              {
+                "local_unit_price": "150000.00"
+              },
+              {
+                "expr_delivery_charge": "150000.00"
+              },
+              {
+                "delivery_time_in_hours": 360
+              },
+              {
+                "expr_delivery_time_in_hours": 360
+              }
+            ],
+            "not_interested_in": null,
+            "cancel_work": false,
+            "quote_validity_period": 30,
+            "available_delivery_mode": [
+              "Online"
+            ],
+            "delivery_locations": [],
+            "payment_terms_accepted": null,
+            "joined_since": 1582798908,
+            "review_score": "5.00",
+            "level_score": "20.00",
+            "level_tag": "L1",
+            "no_of_reviews": 4,
+            "notice_period_in_hours": 48,
+            "languages": [
+              "English "
+            ],
+            "community": ""
+          },
+          "sort": [
+            1.2857143
+          ]
+        },
+        {
+          "_index": "services",
+          "_type": "_doc",
+          "_id": "330004252-4566",
+          "_score": null,
+          "_source": {
+            "cust_id": 330004252,
+            "avatar": "https://d17meyd56oy0jr.cloudfront.net/seller-logo/330004252",
+            "url_name": "okon",
+            "summary": null,
+            "profile_id": 4566,
+            "profile_status": "free",
+            "currency_id": 1,
+            "currency_name": "NGN",
+            "search_weight": 1.2857142857142858,
+            "search_premium_subscription": 0,
+            "public_status": true,
+            "vacation_mode": false,
+            "display_name": "okon",
+            "starting_from": "199999.00",
+            "category": "Technology and Programming",
+            "category_description": "Software app development, hardware, cloud computing, and technology related work",
+            "service": "Computer Software Development",
+            "service_unanalyzed": "Computer Software Development",
+            "service_description": "Design and develop Microsoft Windows, Linux, Unix, MAC OS based apps.",
+            "service_expression": "Find a developer to create the desktop app you want!",
+            "service_photo": "https://dl6lnggp44pnu.cloudfront.net/service-multimedia/330004252-photo-4566-mini",
+            "reg_type": "Individual",
+            "status_tag": null,
+            "work_completed": 7,
+            "work_successfully_completed": 7,
+            "work_unsuccessfully_completed": 1,
+            "slug": "4566-full-stack-developer-years-experience-using-node-js-and-react-js",
+            "services_overview_title": "Full Stack Developer with 5+ years experience using Node Js and React JS",
+            "services_overview_body": "<p>Using the latest software development infrastructure and methods, I develop sites/software through configuration driven behaviors and dependency injection.</p><p><br></p><p>I also design and develop technical and complex SQL and NOSQL Server Databases while implementing security and data protection measures.</p>",
+            "skills": [
+              "backend",
+              "node js",
+              "react js",
+              "frontend",
+              "cloud",
+              "security",
+              "devops",
+              "big data"
+            ],
+            "location": {
+              "country": "None Selected",
+              "city": "Lagos",
+              "area_of_city": null
+            },
+            "qualifications": [],
+            "service_packages": [
+              {
+                "description": "Hire a Node JS Backend Developer"
+              },
+              {
+                "unit_price": "299999.00"
+              },
+              {
+                "local_unit_price": "299999.00"
+              },
+              {
+                "expr_delivery_charge": "299999.00"
+              },
+              {
+                "delivery_time_in_hours": 30
+              },
+              {
+                "expr_delivery_time_in_hours": 30
+              },
+              {
+                "description": "Hire Developer to Refactor or Rewrite your React JS code"
+              },
+              {
+                "unit_price": "199999.00"
+              },
+              {
+                "local_unit_price": "199999.00"
+              },
+              {
+                "expr_delivery_charge": "199999.00"
+              },
+              {
+                "delivery_time_in_hours": 30
+              },
+              {
+                "expr_delivery_time_in_hours": 30
+              }
+            ],
+            "not_interested_in": null,
+            "cancel_work": false,
+            "quote_validity_period": 30,
+            "available_delivery_mode": [
+              "Online",
+              "Pick-up"
+            ],
+            "delivery_locations": [],
+            "payment_terms_accepted": null,
+            "joined_since": 1616687357,
+            "review_score": "5.00",
+            "level_score": "23.00",
+            "level_tag": "L1",
+            "no_of_reviews": 3,
+            "notice_period_in_hours": 48,
+            "languages": [
+              "English "
+            ],
+            "community": ""
+          },
+          "sort": [
+            1.2857143
+          ]
+        },
+        {
+          "_index": "services",
+          "_type": "_doc",
+          "_id": "330006068-6438",
+          "_score": null,
+          "_source": {
+            "cust_id": 330006068,
+            "avatar": "https://d17meyd56oy0jr.cloudfront.net/seller-logo/330006068",
+            "url_name": "gregdev99",
+            "summary": null,
+            "profile_id": 6438,
+            "profile_status": "free",
+            "currency_id": 1,
+            "currency_name": "NGN",
+            "search_weight": 1.2857142857142858,
+            "search_premium_subscription": 0,
+            "public_status": true,
+            "vacation_mode": false,
+            "display_name": "Greg_dev99",
+            "starting_from": "35000.00",
+            "category": "Technology and Programming",
+            "category_description": "Software app development, hardware, cloud computing, and technology related work",
+            "service": "Computer Software Development",
+            "service_unanalyzed": "Computer Software Development",
+            "service_description": "Design and develop Microsoft Windows, Linux, Unix, MAC OS based apps.",
+            "service_expression": "Find a developer to create the desktop app you want!",
+            "service_photo": "https://dl6lnggp44pnu.cloudfront.net/service-multimedia/330006068-photo-6438-mini",
+            "reg_type": "Individual",
+            "status_tag": null,
+            "work_completed": 1,
+            "work_successfully_completed": 1,
+            "work_unsuccessfully_completed": 0,
+            "slug": "6438-create-a-dynamic-ecommerce-website-wordpress",
+            "services_overview_title": "Create a Dynamic ecommerce website with WordPress",
+            "services_overview_body": "<p>Create a dynamic ecommerce website to grow your business.</p><p><br></p><p>Setup with Premium WordPress Theme.</p><p><br></p><p><br></p><p>Fully responsive for all devices.</p><p><br></p><p>All ecommerce functionality.</p><p><br></p><p>Payment method integration.</p><p><br></p><p>Newsletter subscription.</p><p><br></p><p>Social Media integration.</p><p><br></p><p>Highly secured website.</p><p><br></p><p>Product variation.</p><p><br></p><p>Live chat.</p><p><br></p><p>Free professional logo.</p><p><br></p><p>Fully optimized website.</p><p><br></p><p>SEO Strategies.</p><p><br></p><p>Free logo and product ads Banner.</p>",
+            "skills": [
+              "WordPress",
+              "Ecommerce",
+              "Woocommerce",
+              "Cheap",
+              "Fast",
+              "Free logo"
+            ],
+            "location": {
+              "country": "None Selected",
+              "city": "Ibadan",
+              "area_of_city": null
+            },
+            "qualifications": [],
+            "service_packages": [
+              {
+                "description": "<p>Grow your business by creating a dynamic ecommerce website</p>"
+              },
+              {
+                "unit_price": "50000.00"
+              },
+              {
+                "local_unit_price": "50000.00"
+              },
+              {
+                "expr_delivery_charge": "50000.00"
+              },
+              {
+                "delivery_time_in_hours": 7
+              },
+              {
+                "expr_delivery_time_in_hours": 7
+              },
+              {
+                "description": "<p>Create a fully responsive website for your business</p>"
+              },
+              {
+                "unit_price": "35000.00"
+              },
+              {
+                "local_unit_price": "35000.00"
+              },
+              {
+                "expr_delivery_charge": "35000.00"
+              },
+              {
+                "delivery_time_in_hours": 7
+              },
+              {
+                "expr_delivery_time_in_hours": 7
+              }
+            ],
+            "not_interested_in": null,
+            "cancel_work": false,
+            "quote_validity_period": 30,
+            "available_delivery_mode": [
+              "Online"
+            ],
+            "delivery_locations": [],
+            "payment_terms_accepted": null,
+            "joined_since": 1631725181,
+            "review_score": "5.00",
+            "level_score": "5.00",
+            "level_tag": "L1",
+            "no_of_reviews": 1,
+            "notice_period_in_hours": 48,
+            "languages": [
+              "English "
+            ],
+            "community": ""
+          },
+          "sort": [
+            1.2857143
+          ]
+        },
+        {
+          "_index": "services",
+          "_type": "_doc",
+          "_id": "330001271-5245",
+          "_score": null,
+          "_source": {
+            "cust_id": 330001271,
+            "avatar": "https://d17meyd56oy0jr.cloudfront.net/default.png",
+            "url_name": "aadeyinka",
+            "summary": null,
+            "profile_id": 5245,
+            "profile_status": "free",
+            "currency_id": 1,
+            "currency_name": "NGN",
+            "search_weight": 1.2714285714285714,
+            "search_premium_subscription": 0,
+            "public_status": true,
+            "vacation_mode": false,
+            "display_name": "Aadeyinka",
+            "starting_from": "300000.00",
+            "category": "Technology and Programming",
+            "category_description": "Software app development, hardware, cloud computing, and technology related work",
+            "service": "Computer Software Development",
+            "service_unanalyzed": "Computer Software Development",
+            "service_description": "Design and develop Microsoft Windows, Linux, Unix, MAC OS based apps.",
+            "service_expression": "Find a developer to create the desktop app you want!",
+            "service_photo": "https://dl6lnggp44pnu.cloudfront.net/service-multimedia/330001271-photo-5245-mini",
+            "reg_type": "Corporate",
+            "status_tag": null,
+            "work_completed": 7,
+            "work_successfully_completed": 7,
+            "work_unsuccessfully_completed": 0,
+            "slug": "5245-realtime-application-webchat-chatbot-video-conferencing-voip-application",
+            "services_overview_title": "Realtime Application (WebChat, Chatbot, Video Conferencing, & VOIP Application)",
+            "services_overview_body": "<p>We develop real-time applications for fast and reliable communication such as Chat, Chatbot, Video Conferencing & VoIP application etc.</p><p><br></p><p>We develop a custom solution to fit business needs.</p>",
+            "skills": [
+              "NodeJS",
+              "React JS",
+              "ReactNative",
+              "Asterisk",
+              "FreeSwitch",
+              "Lua",
+              "WebSocket",
+              "AWS",
+              "GCP",
+              "Python"
+            ],
+            "location": {
+              "country": "Nigeria",
+              "city": "Lekki Phase 1",
+              "area_of_city": null
+            },
+            "qualifications": [],
+            "service_packages": [
+              {
+                "description": "<p>Basic Chat Application</p>"
+              },
+              {
+                "unit_price": "300000.00"
+              },
+              {
+                "local_unit_price": "300000.00"
+              },
+              {
+                "expr_delivery_charge": "400000.00"
+              },
+              {
+                "delivery_time_in_hours": 0
+              },
+              {
+                "expr_delivery_time_in_hours": 0
+              },
+              {
+                "description": "<p>Video Conference Application</p>"
+              },
+              {
+                "unit_price": "3500000.00"
+              },
+              {
+                "local_unit_price": "3500000.00"
+              },
+              {
+                "expr_delivery_charge": "3500000.00"
+              },
+              {
+                "delivery_time_in_hours": 0
+              },
+              {
+                "expr_delivery_time_in_hours": 0
+              }
+            ],
+            "not_interested_in": null,
+            "cancel_work": false,
+            "quote_validity_period": 30,
+            "available_delivery_mode": [
+              "Online"
+            ],
+            "delivery_locations": [],
+            "payment_terms_accepted": null,
+            "joined_since": 1568009714,
+            "review_score": "5.00",
+            "level_score": "23.00",
+            "level_tag": "L1",
+            "no_of_reviews": 1,
+            "notice_period_in_hours": 120,
+            "languages": [
+              "English "
+            ],
+            "community": ""
+          },
+          "sort": [
+            1.2714286
+          ]
+        },
+        {
+          "_index": "services",
+          "_type": "_doc",
+          "_id": "330000599-1085",
+          "_score": null,
+          "_source": {
+            "cust_id": 330000599,
+            "avatar": "https://d17meyd56oy0jr.cloudfront.net/seller-logo/330000599",
+            "url_name": "cyhermesltd",
+            "summary": null,
+            "profile_id": 1085,
+            "profile_status": "free",
+            "currency_id": 1,
+            "currency_name": "NGN",
+            "search_weight": 1.2571428571428571,
+            "search_premium_subscription": 0,
+            "public_status": true,
+            "vacation_mode": false,
+            "display_name": "Cyhermes LTD",
+            "starting_from": "40000.00",
+            "category": "Technology and Programming",
+            "category_description": "Software app development, hardware, cloud computing, and technology related work",
+            "service": "Computer Software Development",
+            "service_unanalyzed": "Computer Software Development",
+            "service_description": "Design and develop Microsoft Windows, Linux, Unix, MAC OS based apps.",
+            "service_expression": "Find a developer to create the desktop app you want!",
+            "service_photo": "https://dl6lnggp44pnu.cloudfront.net/service-multimedia/330000599-photo-1085-mini",
+            "reg_type": "Corporate",
+            "status_tag": null,
+            "work_completed": 1,
+            "work_successfully_completed": 1,
+            "work_unsuccessfully_completed": 0,
+            "slug": "1085-we-develop-and-deliver-rich-intuitive-web-and-mobile-applications",
+            "services_overview_title": "We develop and deliver rich intuitive web and mobile applications.",
+            "services_overview_body": "<p><span style=\"color: rgb(51, 51, 51);\">We use standard application frameworks to ensure timely and efficient project delivery. We develop with Java, PHP, C#, Node, Xamarin and Ruby on Rails. We design, develop and implement world class application using international standards</span></p><p><br></p><p><span style=\"color: rgb(51, 51, 51);\">The world is going mobile, your business should not be left out. We have the experience and the technical know-how to design and build world class mobile application that your business desperately needs. We develop mobile apps in iOS, Android, Blackberry, and Windows Mobile.</span></p>",
+            "skills": [
+              "Java",
+              "PHP",
+              "Node",
+              "Xamarin",
+              "C#",
+              "Ruby on Rails",
+              "Yii2",
+              "Android",
+              "iOS",
+              "java app",
+              "computer programming",
+              "web",
+              "python"
+            ],
+            "location": {
+              "country": "Nigeria",
+              "city": "Lagos",
+              "area_of_city": null
+            },
+            "qualifications": [],
+            "service_packages": [
+              {
+                "description": "Custom Application Development"
+              },
+              {
+                "unit_price": "40000.00"
+              },
+              {
+                "local_unit_price": "40000.00"
+              },
+              {
+                "expr_delivery_charge": "40000.00"
+              },
+              {
+                "delivery_time_in_hours": 1
+              },
+              {
+                "expr_delivery_time_in_hours": 1
+              },
+              {
+                "description": "Mobile Application Development"
+              },
+              {
+                "unit_price": "40000.00"
+              },
+              {
+                "local_unit_price": "40000.00"
+              },
+              {
+                "expr_delivery_charge": "40000.00"
+              },
+              {
+                "delivery_time_in_hours": 1
+              },
+              {
+                "expr_delivery_time_in_hours": 1
+              }
+            ],
+            "not_interested_in": null,
+            "cancel_work": false,
+            "quote_validity_period": 30,
+            "available_delivery_mode": [
+              "Online"
+            ],
+            "delivery_locations": [],
+            "payment_terms_accepted": null,
+            "joined_since": 1543683412,
+            "review_score": "5.00",
+            "level_score": "10.00",
+            "level_tag": "L1",
+            "no_of_reviews": 2,
+            "notice_period_in_hours": 48,
+            "languages": [
+              "English "
+            ],
+            "community": ""
+          },
+          "sort": [
+            1.2571429
+          ]
+        },
+        {
+          "_index": "services",
+          "_type": "_doc",
+          "_id": "330002538-2921",
+          "_score": null,
+          "_source": {
+            "cust_id": 330002538,
+            "avatar": "https://d17meyd56oy0jr.cloudfront.net/seller-logo/330002538",
+            "url_name": "kyendavid",
+            "summary": null,
+            "profile_id": 2921,
+            "profile_status": "free",
+            "currency_id": 1,
+            "currency_name": "NGN",
+            "search_weight": 1.2428571428571429,
+            "search_premium_subscription": 0,
+            "public_status": true,
+            "vacation_mode": false,
+            "display_name": "Kyen David",
+            "starting_from": "2500.00",
+            "category": "Technology and Programming",
+            "category_description": "Software app development, hardware, cloud computing, and technology related work",
+            "service": "Computer Software Development",
+            "service_unanalyzed": "Computer Software Development",
+            "service_description": "Design and develop Microsoft Windows, Linux, Unix, MAC OS based apps.",
+            "service_expression": "Find a developer to create the desktop app you want!",
+            "service_photo": "https://dl6lnggp44pnu.cloudfront.net/service-multimedia/330002538-photo-2921-mini",
+            "reg_type": "Individual",
+            "status_tag": null,
+            "work_completed": 1,
+            "work_successfully_completed": 1,
+            "work_unsuccessfully_completed": 0,
+            "slug": "2921-be-your-computer-software-development-engineer",
+            "services_overview_title": "I will be your computer software, development engineer!",
+            "services_overview_body": "<p>Application software (applications or apps) to help users perform tasks. Office productivity suites, data management software, media players and security programs are examples. Applications also refers to web and mobile applications like those used to shop on Amazon.com, socialize with Facebook or post pictures to Instagram.1</p><p>A possible fourth type is embedded software. Embedded systems software is used to control machines and devices not typically considered computers — telecommunications networks, cars, industrial robots and more. These devices, and their software, can be connected as part of the Internet of Things (IoT)</p><p>Software development is primarily conducted by programmers, software engineers and software developers. These roles interact and overlap, and the dynamics between them vary greatly across development departments and communities.</p><p>Programmers, or coders, write source code to program computers for specific tasks like merging databases, processing online orders, routing communications, conducting searches or displaying text and graphics. Programmers typically interpret instructions from software developers and engineers and use programming languages like C++ or Java to carry them out.</p>",
+            "skills": [
+              "wordpress",
+              "Aws Cloud",
+              "Linux",
+              "Website",
+              "Django",
+              "Api",
+              "rest-api",
+              "tech",
+              "software",
+              "server"
+            ],
+            "location": {
+              "country": "None Selected",
+              "city": "Jos",
+              "area_of_city": null
+            },
+            "qualifications": [],
+            "service_packages": [
+              {
+                "description": "<p>Wordpress Web Design</p>"
+              },
+              {
+                "unit_price": "2500.00"
+              },
+              {
+                "local_unit_price": "2500.00"
+              },
+              {
+                "expr_delivery_charge": "2500.00"
+              },
+              {
+                "delivery_time_in_hours": 1
+              },
+              {
+                "expr_delivery_time_in_hours": 1
+              },
+              {
+                "description": "Linux Server Configuration"
+              },
+              {
+                "unit_price": "2600.00"
+              },
+              {
+                "local_unit_price": "2600.00"
+              },
+              {
+                "expr_delivery_charge": "2600.00"
+              },
+              {
+                "delivery_time_in_hours": 1
+              },
+              {
+                "expr_delivery_time_in_hours": 1
+              },
+              {
+                "description": "<p>Backend Developement</p>"
+              },
+              {
+                "unit_price": "20000.00"
+              },
+              {
+                "local_unit_price": "20000.00"
+              },
+              {
+                "expr_delivery_charge": "20000.00"
+              },
+              {
+                "delivery_time_in_hours": 1
+              },
+              {
+                "expr_delivery_time_in_hours": 1
+              },
+              {
+                "description": "<p>AWS Cloud Configuration</p>"
+              },
+              {
+                "unit_price": "30000.00"
+              },
+              {
+                "local_unit_price": "30000.00"
+              },
+              {
+                "expr_delivery_charge": "30000.00"
+              },
+              {
+                "delivery_time_in_hours": 1
+              },
+              {
+                "expr_delivery_time_in_hours": 1
+              },
+              {
+                "description": "<p>Web Hosting</p>"
+              },
+              {
+                "unit_price": "65000.00"
+              },
+              {
+                "local_unit_price": "65000.00"
+              },
+              {
+                "expr_delivery_charge": "65000.00"
+              },
+              {
+                "delivery_time_in_hours": 7
+              },
+              {
+                "expr_delivery_time_in_hours": 7
+              },
+              {
+                "description": "<p>API Developement</p>"
+              },
+              {
+                "unit_price": "150000.00"
+              },
+              {
+                "local_unit_price": "150000.00"
+              },
+              {
+                "expr_delivery_charge": "150000.00"
+              },
+              {
+                "delivery_time_in_hours": 14
+              },
+              {
+                "expr_delivery_time_in_hours": 14
+              }
+            ],
+            "not_interested_in": null,
+            "cancel_work": true,
+            "quote_validity_period": 30,
+            "available_delivery_mode": [
+              "Online"
+            ],
+            "delivery_locations": [],
+            "payment_terms_accepted": null,
+            "joined_since": 1599738863,
+            "review_score": "0.00",
+            "level_score": "2.50",
+            "level_tag": "L1",
+            "no_of_reviews": 0,
+            "notice_period_in_hours": 48,
+            "languages": [
+              "English "
+            ],
+            "community": ""
+          },
+          "sort": [
+            1.2428571
+          ]
+        },
+        {
+          "_index": "services",
+          "_type": "_doc",
+          "_id": "330004986-8136",
+          "_score": null,
+          "_source": {
+            "cust_id": 330004986,
+            "avatar": "https://d17meyd56oy0jr.cloudfront.net/seller-logo/330004986",
+            "url_name": "vitechsys",
+            "summary": null,
+            "profile_id": 8136,
+            "profile_status": "free",
+            "currency_id": 1,
+            "currency_name": "NGN",
+            "search_weight": 1.2,
+            "search_premium_subscription": 0,
+            "public_status": true,
+            "vacation_mode": false,
+            "display_name": "Vi-Techsys",
+            "starting_from": "10000.00",
+            "category": "Technology and Programming",
+            "category_description": "Software app development, hardware, cloud computing, and technology related work",
+            "service": "Computer Software Development",
+            "service_unanalyzed": "Computer Software Development",
+            "service_description": "Design and develop Microsoft Windows, Linux, Unix, MAC OS based apps.",
+            "service_expression": "Find a developer to create the desktop app you want!",
+            "service_photo": "https://dl6lnggp44pnu.cloudfront.net/service-multimedia/330004986-photo-8136-mini",
+            "reg_type": "Individual",
+            "status_tag": "",
+            "work_completed": 2,
+            "work_successfully_completed": 2,
+            "work_unsuccessfully_completed": 0,
+            "slug": "8136-get-a-robust-software-application-any-purpose-you-want",
+            "services_overview_title": "Get a robust Software Application for any purpose you want",
+            "services_overview_body": "<p>Do you need a software solution for your business or office, deployed on the web, desktop or mobile browsers? I can develop robust application that is well engineered and customized for your need. I have experience in several programming languages to deliver your software application to the right platform. </p>",
+            "skills": [
+              "Programming",
+              "Coding",
+              "Engineering",
+              "Research",
+              "Database development",
+              "Testing",
+              "Analysis"
+            ],
+            "location": {
+              "country": "None Selected",
+              "city": "Ilesa",
+              "area_of_city": null
+            },
+            "qualifications": [],
+            "service_packages": [
+              {
+                "description": "<p>Software engineering</p>"
+              },
+              {
+                "unit_price": "30000.00"
+              },
+              {
+                "local_unit_price": "30000.00"
+              },
+              {
+                "expr_delivery_charge": "30000.00"
+              },
+              {
+                "delivery_time_in_hours": 10
+              },
+              {
+                "expr_delivery_time_in_hours": 10
+              },
+              {
+                "description": "<p>Requirement Gathering</p>"
+              },
+              {
+                "unit_price": "10000.00"
+              },
+              {
+                "local_unit_price": "10000.00"
+              },
+              {
+                "expr_delivery_charge": "10000.00"
+              },
+              {
+                "delivery_time_in_hours": 3
+              },
+              {
+                "expr_delivery_time_in_hours": 3
+              },
+              {
+                "description": "<p>Software Development</p>"
+              },
+              {
+                "unit_price": "60000.00"
+              },
+              {
+                "local_unit_price": "60000.00"
+              },
+              {
+                "expr_delivery_charge": "60000.00"
+              },
+              {
+                "delivery_time_in_hours": 20
+              },
+              {
+                "expr_delivery_time_in_hours": 20
+              },
+              {
+                "description": "<p>Testing and deployment</p>"
+              },
+              {
+                "unit_price": "10000.00"
+              },
+              {
+                "local_unit_price": "10000.00"
+              },
+              {
+                "expr_delivery_charge": "10000.00"
+              },
+              {
+                "delivery_time_in_hours": 3
+              },
+              {
+                "expr_delivery_time_in_hours": 3
+              }
+            ],
+            "not_interested_in": null,
+            "cancel_work": false,
+            "quote_validity_period": 30,
+            "available_delivery_mode": [
+              "Online",
+              "Pick-up"
+            ],
+            "delivery_locations": [],
+            "payment_terms_accepted": null,
+            "joined_since": 1618065288,
+            "review_score": "5.00",
+            "level_score": "7.50",
+            "level_tag": "L1",
+            "no_of_reviews": 1,
+            "notice_period_in_hours": 48,
+            "languages": [
+              "English "
+            ],
+            "community": ""
+          },
+          "sort": [
+            1.2
+          ]
+        },
+        {
+          "_index": "services",
+          "_type": "_doc",
+          "_id": "330002796-3210",
+          "_score": null,
+          "_source": {
+            "cust_id": 330002796,
+            "avatar": "https://d17meyd56oy0jr.cloudfront.net/seller-logo/330002796",
+            "url_name": "amechi014",
+            "summary": null,
+            "profile_id": 3210,
+            "profile_status": "free",
+            "currency_id": 1,
+            "currency_name": "NGN",
+            "search_weight": 1.1714285714285715,
+            "search_premium_subscription": 0,
+            "public_status": true,
+            "vacation_mode": false,
+            "display_name": "Amechi014",
+            "starting_from": "120000.00",
+            "category": "Technology and Programming",
+            "category_description": "Software app development, hardware, cloud computing, and technology related work",
+            "service": "Computer Software Development",
+            "service_unanalyzed": "Computer Software Development",
+            "service_description": "Design and develop Microsoft Windows, Linux, Unix, MAC OS based apps.",
+            "service_expression": "Find a developer to create the desktop app you want!",
+            "service_photo": "https://dl6lnggp44pnu.cloudfront.net/service-multimedia/330002796-photo-3210-mini",
+            "reg_type": "Individual",
+            "status_tag": null,
+            "work_completed": 1,
+            "work_successfully_completed": 1,
+            "work_unsuccessfully_completed": 0,
+            "slug": "3210-can-develop-web-applications-microsoft-net-core-c-language",
+            "services_overview_title": "I can develop Web Applications with Microsoft .Net Core, with C# language",
+            "services_overview_body": "<p>Amechi is a professional website designer, and a .Net developer. He's dedicated to providing clients with responsive websites that help grow businesses. He has an expertise in web development, hosting, and CMS and e-commerce solutions.</p>",
+            "skills": [
+              "Amazon Web Services",
+              ".Net",
+              "ASP.Net",
+              "Dnn",
+              "Drupal",
+              "SQL Server",
+              "MySQL",
+              "Apache",
+              "IIS",
+              "C-#"
+            ],
+            "location": {
+              "country": "None Selected",
+              "city": "Lagos",
+              "area_of_city": null
+            },
+            "qualifications": [],
+            "service_packages": [
+              {
+                "description": "<p>Fully Responsive Dnn, .Net, and SQL Server E-commerce Web Application with Search Engine Optimization, Hosting, SSL Certificate, and Google Analytics.</p>"
+              },
+              {
+                "unit_price": "220500.00"
+              },
+              {
+                "local_unit_price": "220500.00"
+              },
+              {
+                "expr_delivery_charge": "250000.00"
+              },
+              {
+                "delivery_time_in_hours": 18
+              },
+              {
+                "expr_delivery_time_in_hours": 21
+              },
+              {
+                "description": "<p>Fully Responsive Drupal Website with Search Engine Optimization and Hosting.</p>"
+              },
+              {
+                "unit_price": "120000.00"
+              },
+              {
+                "local_unit_price": "120000.00"
+              },
+              {
+                "expr_delivery_charge": "150000.00"
+              },
+              {
+                "delivery_time_in_hours": 14
+              },
+              {
+                "expr_delivery_time_in_hours": 10
+              },
+              {
+                "description": "<p>Fully Responsive Dnn, .Net, and SQL Server Web Application with Search Engine Optimization, Hosting, SSL Certificate, and Google Analytics.</p>"
+              },
+              {
+                "unit_price": "150500.00"
+              },
+              {
+                "local_unit_price": "150500.00"
+              },
+              {
+                "expr_delivery_charge": "180500.00"
+              },
+              {
+                "delivery_time_in_hours": 18
+              },
+              {
+                "expr_delivery_time_in_hours": 21
+              }
+            ],
+            "not_interested_in": null,
+            "cancel_work": false,
+            "quote_validity_period": 30,
+            "available_delivery_mode": [
+              "Online",
+              "Pick-up"
+            ],
+            "delivery_locations": [],
+            "payment_terms_accepted": null,
+            "joined_since": 1605190324,
+            "review_score": "0.00",
+            "level_score": "2.50",
+            "level_tag": "L1",
+            "no_of_reviews": 0,
+            "notice_period_in_hours": 48,
+            "languages": [
+              "English "
+            ],
+            "community": ""
+          },
+          "sort": [
+            1.1714286
+          ]
+        },
+        {
+          "_index": "services",
+          "_type": "_doc",
+          "_id": "330007393-7962",
+          "_score": null,
+          "_source": {
+            "cust_id": 330007393,
+            "avatar": "https://d17meyd56oy0jr.cloudfront.net/seller-logo/330007393",
+            "url_name": "phpmann",
+            "summary": null,
+            "profile_id": 7962,
+            "profile_status": "free",
+            "currency_id": 2,
+            "currency_name": "USD",
+            "search_weight": 1.1714285714285715,
+            "search_premium_subscription": 0,
+            "public_status": true,
+            "vacation_mode": false,
+            "display_name": "PHPMANN",
+            "starting_from": "100.00",
+            "category": "Technology and Programming",
+            "category_description": "Software app development, hardware, cloud computing, and technology related work",
+            "service": "Computer Software Development",
+            "service_unanalyzed": "Computer Software Development",
+            "service_description": "Design and develop Microsoft Windows, Linux, Unix, MAC OS based apps.",
+            "service_expression": "Find a developer to create the desktop app you want!",
+            "service_photo": "https://dl6lnggp44pnu.cloudfront.net/service-multimedia/330007393-photo-7962-mini",
+            "reg_type": "Individual",
+            "status_tag": null,
+            "work_completed": 1,
+            "work_successfully_completed": 1,
+            "work_unsuccessfully_completed": 0,
+            "slug": "7962-get-your-php-web-application-ie-framework-eg-laravel-codeignitor",
+            "services_overview_title": "Get your PHP web application ie. Framework eg. Laravel , Codeignitor",
+            "services_overview_body": "<p>I am an experience PHP fullstack developer. Over the years i have been able to work on several project which includes Restful API's and API integration and consuming.</p>",
+            "skills": [
+              "WordPress",
+              "Laravel",
+              "PHP",
+              "Codeignitor",
+              "web development",
+              "web design",
+              "php framework"
+            ],
+            "location": {
+              "country": "Nigeria",
+              "city": "Lagos",
+              "area_of_city": null
+            },
+            "qualifications": [
+              "Tech"
+            ],
+            "service_packages": [
+              {
+                "description": "<p>Add or modify your PHP web Application (Core PHP , Laravel , Codeignitor)</p>"
+              },
+              {
+                "unit_price": "100.00"
+              },
+              {
+                "local_unit_price": "67611.423626136"
+              },
+              {
+                "expr_delivery_charge": "100.00"
+              },
+              {
+                "delivery_time_in_hours": 2
+              },
+              {
+                "expr_delivery_time_in_hours": 2
+              },
+              {
+                "description": "<p>Build new or Modify your Laravel Web Application </p>"
+              },
+              {
+                "unit_price": "100.00"
+              },
+              {
+                "local_unit_price": "67611.423626136"
+              },
+              {
+                "expr_delivery_charge": "100.00"
+              },
+              {
+                "delivery_time_in_hours": 2
+              },
+              {
+                "expr_delivery_time_in_hours": 2
+              },
+              {
+                "description": "<p>I will develop your SEO optimized WordPress website</p>"
+              },
+              {
+                "unit_price": "600.00"
+              },
+              {
+                "local_unit_price": "405668.54175682"
+              },
+              {
+                "expr_delivery_charge": "600.00"
+              },
+              {
+                "delivery_time_in_hours": 6
+              },
+              {
+                "expr_delivery_time_in_hours": 6
+              },
+              {
+                "description": "<p>I will add or modify your WordPress Website </p>"
+              },
+              {
+                "unit_price": "300.00"
+              },
+              {
+                "local_unit_price": "202834.27087841"
+              },
+              {
+                "expr_delivery_charge": "300.00"
+              },
+              {
+                "delivery_time_in_hours": 4
+              },
+              {
+                "expr_delivery_time_in_hours": 4
+              }
+            ],
+            "not_interested_in": null,
+            "cancel_work": false,
+            "quote_validity_period": 30,
+            "available_delivery_mode": [
+              "Online",
+              "Pick-up",
+              "In-person",
+              "Hybrid"
+            ],
+            "delivery_locations": [],
+            "payment_terms_accepted": null,
+            "joined_since": 1658487508,
+            "review_score": "0.00",
+            "level_score": "2.50",
+            "level_tag": "L1",
+            "no_of_reviews": 0,
+            "notice_period_in_hours": 48,
+            "languages": [
+              "English "
+            ],
+            "community": ""
+          },
+          "sort": [
+            1.1714286
+          ]
+        },
+        {
+          "_index": "services",
+          "_type": "_doc",
+          "_id": "330005246-7663",
+          "_score": null,
+          "_source": {
+            "cust_id": 330005246,
+            "avatar": "https://d17meyd56oy0jr.cloudfront.net/seller-logo/330005246",
+            "url_name": "shobandejames",
+            "summary": null,
+            "profile_id": 7663,
+            "profile_status": "free",
+            "currency_id": 1,
+            "currency_name": "NGN",
+            "search_weight": 1.1714285714285715,
+            "search_premium_subscription": 0,
+            "public_status": true,
+            "vacation_mode": false,
+            "display_name": "Shobande James",
+            "starting_from": "250000.00",
+            "category": "Technology and Programming",
+            "category_description": "Software app development, hardware, cloud computing, and technology related work",
+            "service": "Computer Software Development",
+            "service_unanalyzed": "Computer Software Development",
+            "service_description": "Design and develop Microsoft Windows, Linux, Unix, MAC OS based apps.",
+            "service_expression": "Find a developer to create the desktop app you want!",
+            "service_photo": "https://dl6lnggp44pnu.cloudfront.net/service-multimedia/330005246-photo-7663-mini",
+            "reg_type": "Individual",
+            "status_tag": "",
+            "work_completed": 4,
+            "work_successfully_completed": 4,
+            "work_unsuccessfully_completed": 1,
+            "slug": "7663-get-a-fully-responsive-and-interactive-progressive-web-application",
+            "services_overview_title": "Get a fully responsive and interactive progressive web application",
+            "services_overview_body": "<p>I'm a front-end web developer with experience and attention to detail. I have three years of practical expertise using current<strong> HTML, CSS, and JavaScript</strong> to code websites and applications, with <strong>React</strong> being my favoured framework of interest. I am well versed in frontend libraries like <strong>Material UI, Tailwind, Bootstrap,</strong> version control with<strong> Git </strong>and state management with <strong>Redux.</strong> </p><p><br></p><p>Building cutting-edge, user-friendly websites and applications is a true passion of mine, and I am convinced that I would be an outstanding fit for your company. I continuously search out new technologies and stay up-to-date on industry trends and breakthroughs in addition to my knowledge base. This has enabled me to keep ahead of the curve and improve my skills.</p><p><br></p>",
+            "skills": [
+              "React",
+              "Javascript",
+              "Redux",
+              "CSS, Bootstrap, Tailwind"
+            ],
+            "location": {
+              "country": "None Selected",
+              "city": "Lagos",
+              "area_of_city": null
+            },
+            "qualifications": [
+              "Digital Marketing",
+              "Digital Marketing",
+              "Digital Marketing",
+              "Chemistry"
+            ],
+            "service_packages": [
+              {
+                "description": "<p>Build a responsive website </p>"
+              },
+              {
+                "unit_price": "250000.00"
+              },
+              {
+                "local_unit_price": "250000.00"
+              },
+              {
+                "expr_delivery_charge": "250000.00"
+              },
+              {
+                "delivery_time_in_hours": 29
+              },
+              {
+                "expr_delivery_time_in_hours": 29
+              },
+              {
+                "description": "<p>Maintain and integrate new UI designs into web pages</p>"
+              },
+              {
+                "unit_price": "250000.00"
+              },
+              {
+                "local_unit_price": "250000.00"
+              },
+              {
+                "expr_delivery_charge": "250000.00"
+              },
+              {
+                "delivery_time_in_hours": 30
+              },
+              {
+                "expr_delivery_time_in_hours": 30
+              }
+            ],
+            "not_interested_in": null,
+            "cancel_work": false,
+            "quote_validity_period": 30,
+            "available_delivery_mode": [
+              "Online",
+              "Pick-up"
+            ],
+            "delivery_locations": [],
+            "payment_terms_accepted": null,
+            "joined_since": 1618328187,
+            "review_score": "0.00",
+            "level_score": "5.00",
+            "level_tag": "L1",
+            "no_of_reviews": 0,
+            "notice_period_in_hours": 48,
+            "languages": [
+              "English "
+            ],
+            "community": ""
+          },
+          "sort": [
+            1.1714286
+          ]
+        },
+        {
+          "_index": "services",
+          "_type": "_doc",
+          "_id": "330007316-7844",
+          "_score": null,
+          "_source": {
+            "cust_id": 330007316,
+            "avatar": "https://d17meyd56oy0jr.cloudfront.net/seller-logo/330007316",
+            "url_name": "ah3ey",
+            "summary": null,
+            "profile_id": 7844,
+            "profile_status": "free",
+            "currency_id": 1,
+            "currency_name": "NGN",
+            "search_weight": 1.1714285714285715,
+            "search_premium_subscription": 0,
+            "public_status": true,
+            "vacation_mode": false,
+            "display_name": "Ah3ey",
+            "starting_from": "450000.00",
+            "category": "Technology and Programming",
+            "category_description": "Software app development, hardware, cloud computing, and technology related work",
+            "service": "Computer Software Development",
+            "service_unanalyzed": "Computer Software Development",
+            "service_description": "Design and develop Microsoft Windows, Linux, Unix, MAC OS based apps.",
+            "service_expression": "Find a developer to create the desktop app you want!",
+            "service_photo": "https://dl6lnggp44pnu.cloudfront.net/service-multimedia/330007316-photo-7844-mini",
+            "reg_type": "Individual",
+            "status_tag": null,
+            "work_completed": 1,
+            "work_successfully_completed": 1,
+            "work_unsuccessfully_completed": 0,
+            "slug": "7844-build-and-deploy-web-mobile-application-your-business",
+            "services_overview_title": "I will Build and deploy web / mobile application for your business",
+            "services_overview_body": "<p>Hi, my name is Olanlokun Abiodun, I am a full-stack web developer with good experience in Single Page Applications with Angular for Frontend Development and Node.js & Express as backend technologies for making Restful APIs and PHP  Laravel for Management Systems.</p><p>I can bring your project idea to life as you imagine and better than you expect it.</p><p><strong>Services:</strong></p><ul><li><strong>SPA</strong> and <strong>PWA </strong>development using <strong>Angular </strong></li><li>Eye-catching Frontend with <strong>HTML</strong>, <strong>CSS</strong> & <strong>SASS</strong></li><li><strong>Bootstrap 5 </strong>& Material Design</li><li>Cross Browser Support</li><li><strong>API Integration </strong>in React & Next.js</li><li>Secure <strong>Node. js-based</strong> <strong>express / PHP Laravel</strong> API</li><li>Link with databases such as <strong>MySQL</strong>, <strong>MongoDB</strong></li><li>Deploy an application to your server or third-party services such </li></ul>",
+            "skills": [
+              "PHP",
+              "Javascript",
+              "Angular",
+              "Nodejs",
+              "Flutter"
+            ],
+            "location": {
+              "country": "None Selected",
+              "city": "Abuja",
+              "area_of_city": null
+            },
+            "qualifications": [
+              "Industrial and Tech. Edu. (Electrical and Electronics Tech.)"
+            ],
+            "service_packages": [
+              {
+                "description": "<p>Package 1 (Backend Service)</p>"
+              },
+              {
+                "unit_price": "450000.00"
+              },
+              {
+                "local_unit_price": "450000.00"
+              },
+              {
+                "expr_delivery_charge": "450000.00"
+              },
+              {
+                "delivery_time_in_hours": 120
+              },
+              {
+                "expr_delivery_time_in_hours": 120
+              },
+              {
+                "description": "<p>Package 2 (FullStack)</p>"
+              },
+              {
+                "unit_price": "1000000.00"
+              },
+              {
+                "local_unit_price": "1000000.00"
+              },
+              {
+                "expr_delivery_charge": "1000000.00"
+              },
+              {
+                "delivery_time_in_hours": 163
+              },
+              {
+                "expr_delivery_time_in_hours": 163
+              }
+            ],
+            "not_interested_in": null,
+            "cancel_work": false,
+            "quote_validity_period": 30,
+            "available_delivery_mode": [
+              "Online",
+              "Pick-up",
+              "In-person",
+              "Hybrid"
+            ],
+            "delivery_locations": [],
+            "payment_terms_accepted": null,
+            "joined_since": 1656952590,
+            "review_score": "0.00",
+            "level_score": "3.25",
+            "level_tag": "L1",
+            "no_of_reviews": 0,
+            "notice_period_in_hours": 48,
+            "languages": [
+              "English "
+            ],
+            "community": ""
+          },
+          "sort": [
+            1.1714286
+          ]
+        },
+        {
+          "_index": "services",
+          "_type": "_doc",
+          "_id": "330002134-3708",
+          "_score": null,
+          "_source": {
+            "cust_id": 330002134,
+            "avatar": "https://d17meyd56oy0jr.cloudfront.net/default.png",
+            "url_name": "randomlee",
+            "summary": null,
+            "profile_id": 3708,
+            "profile_status": "free",
+            "currency_id": 1,
+            "currency_name": "NGN",
+            "search_weight": 1.1714285714285715,
+            "search_premium_subscription": 0,
+            "public_status": true,
+            "vacation_mode": false,
+            "display_name": "randomlee",
+            "starting_from": "9500.00",
+            "category": "Technology and Programming",
+            "category_description": "Software app development, hardware, cloud computing, and technology related work",
+            "service": "Computer Software Development",
+            "service_unanalyzed": "Computer Software Development",
+            "service_description": "Design and develop Microsoft Windows, Linux, Unix, MAC OS based apps.",
+            "service_expression": "Find a developer to create the desktop app you want!",
+            "service_photo": "https://dl6lnggp44pnu.cloudfront.net/service-multimedia/330002134-photo-3708-mini",
+            "reg_type": "Individual",
+            "status_tag": null,
+            "work_completed": 1,
+            "work_successfully_completed": 1,
+            "work_unsuccessfully_completed": 0,
+            "slug": "3708-web-development",
+            "services_overview_title": "Web Development",
+            "services_overview_body": "<p>Development, Deployment, and Maintenance of professional websites for organizations and individuals</p>",
+            "skills": [
+              "AngularJs",
+              "AngularMaterial",
+              "CSS",
+              "HTML",
+              "ReactJs",
+              "NodeJs",
+              "Firebase",
+              "Javascript",
+              "TailWind",
+              "Bulma"
+            ],
+            "location": {
+              "country": "None Selected",
+              "city": "Abeokuta",
+              "area_of_city": null
+            },
+            "qualifications": [],
+            "service_packages": [
+              {
+                "description": "Hire a developer to build a website using AngularJs"
+              },
+              {
+                "unit_price": "9500.00"
+              },
+              {
+                "local_unit_price": "9500.00"
+              },
+              {
+                "expr_delivery_charge": "9500.00"
+              },
+              {
+                "delivery_time_in_hours": 1
+              },
+              {
+                "expr_delivery_time_in_hours": 1
+              },
+              {
+                "description": "Hire a developer to build a website using ReactJs and NodeJs"
+              },
+              {
+                "unit_price": "20000.00"
+              },
+              {
+                "local_unit_price": "20000.00"
+              },
+              {
+                "expr_delivery_charge": "20000.00"
+              },
+              {
+                "delivery_time_in_hours": 1
+              },
+              {
+                "expr_delivery_time_in_hours": 1
+              }
+            ],
+            "not_interested_in": null,
+            "cancel_work": false,
+            "quote_validity_period": 30,
+            "available_delivery_mode": [
+              "Online"
+            ],
+            "delivery_locations": [],
+            "payment_terms_accepted": null,
+            "joined_since": 1593644369,
+            "review_score": "0.00",
+            "level_score": "2.50",
+            "level_tag": "L1",
+            "no_of_reviews": 0,
+            "notice_period_in_hours": 48,
+            "languages": [
+              "English "
+            ],
+            "community": ""
+          },
+          "sort": [
+            1.1714286
+          ]
+        },
+        {
+          "_index": "services",
+          "_type": "_doc",
+          "_id": "330006101-6472",
+          "_score": null,
+          "_source": {
+            "cust_id": 330006101,
+            "avatar": "https://d17meyd56oy0jr.cloudfront.net/seller-logo/330006101",
+            "url_name": "onovaedeborah",
+            "summary": null,
+            "profile_id": 6472,
+            "profile_status": "free",
+            "currency_id": 1,
+            "currency_name": "NGN",
+            "search_weight": 1.1714285714285715,
+            "search_premium_subscription": 0,
+            "public_status": true,
+            "vacation_mode": false,
+            "display_name": "Onovae Deborah",
+            "starting_from": "30000.00",
+            "category": "Technology and Programming",
+            "category_description": "Software app development, hardware, cloud computing, and technology related work",
+            "service": "Computer Software Development",
+            "service_unanalyzed": "Computer Software Development",
+            "service_description": "Design and develop Microsoft Windows, Linux, Unix, MAC OS based apps.",
+            "service_expression": "Find a developer to create the desktop app you want!",
+            "service_photo": "https://dl6lnggp44pnu.cloudfront.net/service-multimedia/330006101-photo-6472-mini",
+            "reg_type": "Individual",
+            "status_tag": null,
+            "work_completed": 1,
+            "work_successfully_completed": 1,
+            "work_unsuccessfully_completed": 0,
+            "slug": "6472-provide-expert-technical-support-your-website-server-dns-domain-and-email-issues",
+            "services_overview_title": "I will provide expert technical support to your website, server, DNS, domain, and email issues.",
+            "services_overview_body": "<p>I provide technical support to users of Microsoft 365 and Azure products.</p><p>I possess both the technical and soft skills needed to excel in this career.</p><p><br></p>",
+            "skills": [
+              "deployment",
+              "user training"
+            ],
+            "location": {
+              "country": "None Selected",
+              "city": "Warri",
+              "area_of_city": null
+            },
+            "qualifications": [],
+            "service_packages": [
+              {
+                "description": "Hire me to provide expert technical support for your software application"
+              },
+              {
+                "unit_price": "30000.00"
+              },
+              {
+                "local_unit_price": "30000.00"
+              },
+              {
+                "expr_delivery_charge": "30000.00"
+              },
+              {
+                "delivery_time_in_hours": 1
+              },
+              {
+                "expr_delivery_time_in_hours": 1
+              },
+              {
+                "description": "Training, Technical and Administrative support"
+              },
+              {
+                "unit_price": "50000.00"
+              },
+              {
+                "local_unit_price": "50000.00"
+              },
+              {
+                "expr_delivery_charge": "50000.00"
+              },
+              {
+                "delivery_time_in_hours": 1
+              },
+              {
+                "expr_delivery_time_in_hours": 1
+              }
+            ],
+            "not_interested_in": null,
+            "cancel_work": false,
+            "quote_validity_period": 30,
+            "available_delivery_mode": [
+              "Online"
+            ],
+            "delivery_locations": [],
+            "payment_terms_accepted": null,
+            "joined_since": 1632337710,
+            "review_score": "0.00",
+            "level_score": "2.50",
+            "level_tag": "L1",
+            "no_of_reviews": 0,
+            "notice_period_in_hours": 48,
+            "languages": [
+              "English "
+            ],
+            "community": ""
+          },
+          "sort": [
+            1.1714286
+          ]
+        },
+        {
+          "_index": "services",
+          "_type": "_doc",
+          "_id": "330006496-6937",
+          "_score": null,
+          "_source": {
+            "cust_id": 330006496,
+            "avatar": "https://d17meyd56oy0jr.cloudfront.net/seller-logo/330006496",
+            "url_name": "timothyoluwalana",
+            "summary": null,
+            "profile_id": 6937,
+            "profile_status": "free",
+            "currency_id": 1,
+            "currency_name": "NGN",
+            "search_weight": 1.1714285714285715,
+            "search_premium_subscription": 0,
+            "public_status": true,
+            "vacation_mode": false,
+            "display_name": "Timothy Oluwalana",
+            "starting_from": "700000.00",
+            "category": "Technology and Programming",
+            "category_description": "Software app development, hardware, cloud computing, and technology related work",
+            "service": "Computer Software Development",
+            "service_unanalyzed": "Computer Software Development",
+            "service_description": "Design and develop Microsoft Windows, Linux, Unix, MAC OS based apps.",
+            "service_expression": "Find a developer to create the desktop app you want!",
+            "service_photo": "https://dl6lnggp44pnu.cloudfront.net/service-multimedia/330006496-photo-6937-mini",
+            "reg_type": "Individual",
+            "status_tag": null,
+            "work_completed": 1,
+            "work_successfully_completed": 1,
+            "work_unsuccessfully_completed": 0,
+            "slug": "6937-get-a-dynamic-web-mobile-app-that-is-fast-efficient-reliable",
+            "services_overview_title": "Get a dynamic web & mobile app that is fast, efficient & reliable.",
+            "services_overview_body": "<p>A passionate and forward-thinking mobile, web and mobile app developer with experience in building, integrating, testing, and supporting app development for web, mobile and desktop devices. I Write well-designed & structured code, produce detailed specifications.</p><p><br></p><p>What will I provide with this Gig?</p><p><br></p><ul><li> Dynamic web and mobile apps for both iOS & Android</li><li> Cross-platform apps</li><li> Payment gateway integration</li><li> SEO friendly website</li><li> Technical support.</li><li> Code documentation</li></ul><p><br></p>",
+            "skills": [
+              "Laravel",
+              "Java",
+              "Android and iOS Flutter App",
+              "ExpressJS",
+              "Angular",
+              "Node",
+              "VueJS"
+            ],
+            "location": {
+              "country": "None Selected",
+              "city": "Ikorodu",
+              "area_of_city": null
+            },
+            "qualifications": [
+              "Computer Engineering"
+            ],
+            "service_packages": [
+              {
+                "description": "<p>Dynamic website design including domain & hosting  (2 weeks)</p>"
+              },
+              {
+                "unit_price": "700000.00"
+              },
+              {
+                "local_unit_price": "700000.00"
+              },
+              {
+                "expr_delivery_charge": "700000.00"
+              },
+              {
+                "delivery_time_in_hours": 14
+              },
+              {
+                "expr_delivery_time_in_hours": 14
+              },
+              {
+                "description": "<p>Mobile app design for android and iOS (3 weeks)</p>"
+              },
+              {
+                "unit_price": "1500000.00"
+              },
+              {
+                "local_unit_price": "1500000.00"
+              },
+              {
+                "expr_delivery_charge": "1500000.00"
+              },
+              {
+                "delivery_time_in_hours": 21
+              },
+              {
+                "expr_delivery_time_in_hours": 21
+              }
+            ],
+            "not_interested_in": null,
+            "cancel_work": false,
+            "quote_validity_period": 30,
+            "available_delivery_mode": [
+              "Online",
+              "Pick-up"
+            ],
+            "delivery_locations": [],
+            "payment_terms_accepted": null,
+            "joined_since": 1642595567,
+            "review_score": "0.00",
+            "level_score": "4.38",
+            "level_tag": "L1",
+            "no_of_reviews": 0,
+            "notice_period_in_hours": 48,
+            "languages": [
+              "English "
+            ],
+            "community": ""
+          },
+          "sort": [
+            1.1714286
+          ]
+        },
+        {
+          "_index": "services",
+          "_type": "_doc",
+          "_id": "330001929-2338",
+          "_score": null,
+          "_source": {
+            "cust_id": 330001929,
+            "avatar": "https://d17meyd56oy0jr.cloudfront.net/seller-logo/330001929",
+            "url_name": "eazybillz",
+            "summary": null,
+            "profile_id": 2338,
+            "profile_status": "free",
+            "currency_id": 1,
+            "currency_name": "NGN",
+            "search_weight": 1.1571428571428573,
+            "search_premium_subscription": 0,
+            "public_status": true,
+            "vacation_mode": false,
+            "display_name": "eazybillz",
+            "starting_from": "150000.00",
+            "category": "Technology and Programming",
+            "category_description": "Software app development, hardware, cloud computing, and technology related work",
+            "service": "Computer Software Development",
+            "service_unanalyzed": "Computer Software Development",
+            "service_description": "Design and develop Microsoft Windows, Linux, Unix, MAC OS based apps.",
+            "service_expression": "Find a developer to create the desktop app you want!",
+            "service_photo": "https://dl6lnggp44pnu.cloudfront.net/service-multimedia/330001929-photo-2338-mini",
+            "reg_type": "Corporate",
+            "status_tag": null,
+            "work_completed": 9,
+            "work_successfully_completed": 9,
+            "work_unsuccessfully_completed": 0,
+            "slug": "2338-get-a-team-expert-software-engineers",
+            "services_overview_title": "Get a team of expert software engineers",
+            "services_overview_body": "<p>If you're looking for a team to be your software developer and engineers or someone to Write Your Code, Then your search ends here</p><p><strong>We will provide :</strong></p><ul><li>Best UX/UI Designs </li><li>Fully responsive website </li><li>User friendly user dashboard panel </li><li>Enterprise web application</li><li>Mobile development </li><li>100% revisions up to your satisfaction</li><li>Enhance security</li><li>Social Media Integration, Contact Forms, Google Maps</li></ul><p><strong> Why choose us:</strong></p><ul><li>Develop and test software to meet consumers' and clients' needs.</li><li>Develop upgrades for existing applications.</li><li>Monitor quality and performance of applications through testing and maintenance.</li><li>Document all work for future reference.</li></ul><p><strong>Kindly contact us for more information</strong></p>",
+            "skills": [
+              "Software",
+              "software engineer",
+              "programming",
+              "javascript"
+            ],
+            "location": {
+              "country": "Nigeria",
+              "city": "surulere",
+              "area_of_city": null
+            },
+            "qualifications": [],
+            "service_packages": [
+              {
+                "description": "<p><strong>Package 1:</strong></p><ul><li>Simple programs</li><li>Data base Integration</li><li>Setup file</li><li>Source code</li><li>Unlimited revision</li></ul>"
+              },
+              {
+                "unit_price": "150000.00"
+              },
+              {
+                "local_unit_price": "150000.00"
+              },
+              {
+                "expr_delivery_charge": "200000.00"
+              },
+              {
+                "delivery_time_in_hours": 144
+              },
+              {
+                "expr_delivery_time_in_hours": 144
+              },
+              {
+                "description": "<p><strong>Package 2:</strong></p><ul><li>Complex programs</li><li>Data base integration</li><li>Set up file</li><li>Source code</li><li>Unlimited revisions</li></ul>"
+              },
+              {
+                "unit_price": "250000.00"
+              },
+              {
+                "local_unit_price": "250000.00"
+              },
+              {
+                "expr_delivery_charge": "400000.00"
+              },
+              {
+                "delivery_time_in_hours": 264
+              },
+              {
+                "expr_delivery_time_in_hours": 264
+              }
+            ],
+            "not_interested_in": null,
+            "cancel_work": false,
+            "quote_validity_period": 30,
+            "available_delivery_mode": [
+              "Online",
+              "Pick-up"
+            ],
+            "delivery_locations": [],
+            "payment_terms_accepted": null,
+            "joined_since": 1589111863,
+            "review_score": "0.00",
+            "level_score": "36.00",
+            "level_tag": "L1",
+            "no_of_reviews": 0,
+            "notice_period_in_hours": 24,
+            "languages": [
+              "English "
+            ],
+            "community": ""
+          },
+          "sort": [
+            1.1571429
+          ]
+        }
+      ],
+      "meta": {
+        "total": 150,
+        "count": 20,
+        "per_page": 20,
+        "last_page": 0,
+        "current_page": 1,
+        "total_pages": 8
+      }
+    }
+  }
+}
