@@ -4,7 +4,7 @@ import logo from '../images/dev-hire.svg';
 
 const SideNav = () => {
   return (
-    <div className="min-w-[300px] max-w-[300px] h-[100vh] flex flex-col gap-10 items-center py-8 border-r">
+    <div className="min-w-[280px] max-w-[280px] h-[100vh] flex flex-col gap-10 items-center py-8 border-r">
       <img
         src={logo}
         alt=""
