@@ -1,4 +1,4 @@
-const DeveloperCard = ({ developer: { service_photo, avatar, display_name, starting_from } }) => {
+const DeveloperCard = ({ developer: {service_photo, avatar, display_name, starting_from }}) =>{
 	return (
 		<div className="rounded-[10px] min-w-[238px] max-w-[238px] h-56 bg-white p-[5px] flex flex-col justify-between">
 			<div className="relative">
