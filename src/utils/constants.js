@@ -20,3 +20,5 @@ export const NAV_ITEMS = [
     image: <FavoriteIcon />,
   },
 ];
+
+const dummy = ""
